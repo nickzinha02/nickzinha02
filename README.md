@@ -1,16 +1,15 @@
-## Hi there 👋
+## Boas vindas ao meu perfil 💙
 
-<!--
-**nickzinha02/nickzinha02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Nicole
 
-Here are some ideas to get you started:
+- Estou no terceiro ano do ensino medio
+- Estou estudando no [alura](https://www.alura.com.br) para aprender a fazer projetos
+- utilizando esse espaço para compartilhar meus profejos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### pode conmentar nos meus projetos📧
+
+# projetos ativos
+
+# nickzinha02
+
+![](https://media1.tenor.com/m/QCLFP3CFL3MAAAAC/leatylrs-friends.gif)
